@@ -9,8 +9,9 @@
    <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
   </a>
     <br>-->
- <img src="https://pa1.narvii.com/6716/3b4a03ea12e757604f2320a6139b0464a12d766b_hq.gif" width="41.5%" align="right" />
-<pre>
+<pre> 
+  <img src="https://pa1.narvii.com/6716/3b4a03ea12e757604f2320a6139b0464a12d766b_hq.gif" width="41.5%" align="right" />
+
  <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=80&duration=4000&pause=300&color=98a2f0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Fernanda+Tozzi" width="80%" />
   
 <li><b>Estudante de Engenharia de Software </b> <a href="Unifil.br">Unifil</a></li>
@@ -29,8 +30,9 @@
 <img src="https://img.shields.io/badge/vs code%20-%231572B6.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white"/>  <img src="https://img.shields.io/badge/figma%20-%23E4405F?&style=for-the-badge&logo=figma&logoColor=white"/>  <img src="https://img.shields.io/badge/canva%20-%23323330.svg?&style=for-the-badge&logo=canva&logoColor=pink"/>
   
 </pre>
-<img src="https://i.pinimg.com/originals/50/1d/49/501d49dc37935dc5c1fa42a676f785de.gif" width="36.5%" align="left" />
 <pre>
+  <img src="https://i.pinimg.com/originals/50/1d/49/501d49dc37935dc5c1fa42a676f785de.gif" width="36.5%" align="left" />
+
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=100&duration=4000&pause=300&color=98a2f0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=200&lines=Contato" width="70%"/>
 <br>
