@@ -33,7 +33,7 @@
 <img src="https://i.pinimg.com/originals/50/1d/49/501d49dc37935dc5c1fa42a676f785de.gif" height="203px" align="left" />
 <pre>  
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=100&duration=4000&pause=300&color=98a2f0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=200&lines=-+Contato+-" width="70%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=100&duration=4000&pause=300&color=98a2f0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=200&lines=-+Contato+-" width="80%"/>
 <br>
 <a href="www.linkedin.com/in/fernandatozzihonorio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="mailto:fernandatozzihonorio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/fernanda.tozzih" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://www.behance.net/Fthillustration"><img src="https://img.shields.io/badge/Behance-1877F2?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
 </div>
