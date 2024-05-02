@@ -10,7 +10,7 @@
   </a>
     <br>-->
     
-<img src="https://pa1.narvii.com/6716/3b4a03ea12e757604f2320a6139b0464a12d766b_hq.gif" height="275px" align="right" />
+<img src="https://pa1.narvii.com/6716/3b4a03ea12e757604f2320a6139b0464a12d766b_hq.gif" height="274px" align="right" />
 <pre> 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=80&duration=4000&pause=300&color=98a2f0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Fernanda+Tozzi" width="80%" />
 <li><b>Estudante de Engenharia de Software </b> <a href="Unifil.br">Unifil</a></li>
@@ -30,7 +30,7 @@
   
 </pre>
 
-<img src="https://i.pinimg.com/originals/50/1d/49/501d49dc37935dc5c1fa42a676f785de.gif" width="39.3%" align="left" />
+<img src="https://i.pinimg.com/originals/50/1d/49/501d49dc37935dc5c1fa42a676f785de.gif" height="200px" align="left" />
 <pre>  
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=100&duration=4000&pause=300&color=98a2f0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=200&lines=-+Contato+-" width="70%"/>
