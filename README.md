@@ -3,15 +3,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=60&duration=4000&pause=300&color=98a2f0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Seja+Bem-Vindo!" width="70%" />
 <br><br>
 
-<!--<div align="center">
-<!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <!--<a href="" >
-   <img src="https://lanyard.kyrie25.me/api/202740603790819328?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
-  </a>
-    <br>-->
 <div margin=auto>
 <img src="https://pa1.narvii.com/6716/3b4a03ea12e757604f2320a6139b0464a12d766b_hq.gif" height="274px" align="right" />
-<pre> 
+<pre height="274px" > 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=80&duration=4000&pause=300&color=98a2f0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Fernanda+Tozzi" width="80%" />
 <li><b>Estudante de Engenharia de Software </b> <a href="Unifil.br">Unifil</a></li>
 <li><b>Fascinada por Ilustração Digital </b></li>
@@ -36,7 +30,8 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=100&duration=4000&pause=300&color=98a2f0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=200&lines=-+Contato+-" width="80%"/>
 <br>
-<a href="www.linkedin.com/in/fernandatozzihonorio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="mailto:fernandatozzihonorio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://instagram.com/fernanda.tozzih" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  <a href="https://www.behance.net/Fthillustration"><img src="https://img.shields.io/badge/Behance-1877F2?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/fernandatozzihonorio" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  <a href="mailto:fernandatozzihonorio@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  <a href="https://www.behance.net/Fthillustration" target="_blank"><img src="https://img.shields.io/badge/Behance-%23E4405F?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
+  
 </div>
 </pre>
 
