@@ -4,14 +4,12 @@
 <br><br>
 
 <div margin=auto>
-<img src="https://pa1.narvii.com/6716/3b4a03ea12e757604f2320a6139b0464a12d766b_hq.gif" height="274px" align="right" />
+<img src="https://pa1.narvii.com/6716/3b4a03ea12e757604f2320a6139b0464a12d766b_hq.gif" height="244px" align="right" />
 <pre height="274px" > 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=80&duration=4000&pause=300&color=98a2f0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Fernanda+Tozzi" width="80%" />
 <li><b>Estudante de Engenharia de Software </b> <a href="Unifil.br">Unifil</a></li>
 <li><b>Fascinada por Ilustração Digital </b></li>
 <li><b>Nível de inglês Intermediário</b></li>
-<li><b>Gender:</b> she/her/Female </li>
-<li><b>LastFM:</b></li>
 </pre>
 </div>
 
