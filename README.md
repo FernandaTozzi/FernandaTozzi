@@ -6,7 +6,7 @@
   <p>Estudante de Engenharia de Software</p>
 
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FernandaTozzi&show_icons=true&count_private=true&hide_border=true&title_color=98a2f0&icon_color=00CED1&text_color=5e636a&bg_color=0d1117" alt="Estatísticas do GitHub de FernandaTozzi" /> 
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FernandaTozzi&show_icons=true&count_private=true&hide_border=true&title_color=6c38fa&icon_color=00CED1&text_color=5e636a&bg_color=0d1117" alt="Estatísticas do GitHub de FernandaTozzi" /> 
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaTozzi&layout=compact&hide_border=true&title_color=FF0000&text_color=00CED1&bg_color=0d1117" />
   </div>
 
