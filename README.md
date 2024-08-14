@@ -7,11 +7,11 @@
   <img src="https://pa1.aminoapps.com/6574/6ec1d179c3365ecc6802dafe84f1783fdb4b4ff1_hq.gif" style="width: 63%; max-width: 100px;" alt="Divisória animada" />
 
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GuiCaET&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=00CED1&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de GuiCaET" /> 
-    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCaET&layout=compact&hide_border=true&title_color=FF0000&text_color=00CED1&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FernandaTozzi&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=00CED1&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de FernandaTozzi" /> 
+    <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaTozzi&layout=compact&hide_border=true&title_color=FF0000&text_color=00CED1&bg_color=0d1117" />
   </div>
 
-  [![Gráfico de atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=GuiCaET&bg_color=000000&color=FF0000&line=00CED1&point=FF0000&area=true&hide_border=true)](https://github.com/GuiCaET)
+  [![Gráfico de atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=FernandaTozzi&bg_color=000000&color=FF0000&line=00CED1&point=FF0000&area=true&hide_border=true)](https://github.com/FernandaTozzi)
 
   <h2>Tecnologias que eu utilizo</h2>
 
