@@ -4,10 +4,9 @@
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Fernanda Tozzi Honório</h1>
   
   <p>Estudante de Engenharia de Software</p>
-  <img src="https://pa1.aminoapps.com/6574/6ec1d179c3365ecc6802dafe84f1783fdb4b4ff1_hq.gif" style="width: 63%; max-width: 100px;" alt="Divisória animada" />
 
   <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FernandaTozzi&show_icons=true&count_private=true&hide_border=true&title_color=5500ff&icon_color=00CED1&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub de FernandaTozzi" /> 
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FernandaTozzi&show_icons=true&count_private=true&hide_border=true&title_color=5500ff&icon_color=fff200&text_color=0ed145&bg_color=ff7f27" alt="Estatísticas do GitHub de FernandaTozzi" /> 
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaTozzi&layout=compact&hide_border=true&title_color=FF0000&text_color=00CED1&bg_color=0d1117" />
   </div>
 
