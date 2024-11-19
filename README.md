@@ -2,19 +2,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=60&duration=4000&pause=300&color=98a2f0&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Seja+Bem-Vindo!" width="70%" />
 <br><br>
-<div
-id="botcopy-embedder-d7lcfheammjct"
-class="botcopy-embedder-d7lcfheammjct" 
-data-botId="673641f2e65f5d000820d8fd"
->
-  <script type="text/javascript">
-    var s = document.createElement('script'); 
-    s.type = 'text/javascript'; s.async = true; 
-    s.src = 'https://widget.botcopy.com/js/injection.js'; 
-    document.getElementById('botcopy-embedder-d7lcfheammjct').appendChild(s);
-  </script>
-</div>
-
 <div margin=auto>
 <img src="https://pa1.narvii.com/6716/3b4a03ea12e757604f2320a6139b0464a12d766b_hq.gif" height="240px" align="right" margin-bottom="20px" />
 <pre height="274px" > 
